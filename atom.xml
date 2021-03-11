@@ -3,11 +3,11 @@
   <title>幼儿猿</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://jundiedie.github.io/youeryuan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://jundiedie.github.io/youeryuan.github.io/"/>
   <updated>2021-03-11T12:00:57.228Z</updated>
-  <id>http://example.com/</id>
+  <id>https://jundiedie.github.io/youeryuan.github.io/</id>
   
   <author>
     <name>孙伟俊</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/03/11/hello-world/"/>
-    <id>http://example.com/2021/03/11/hello-world/</id>
+    <link href="https://jundiedie.github.io/youeryuan.github.io/2021/03/11/hello-world/"/>
+    <id>https://jundiedie.github.io/youeryuan.github.io/2021/03/11/hello-world/</id>
     <published>2021-03-11T12:00:57.227Z</published>
     <updated>2021-03-11T12:00:57.228Z</updated>
     
